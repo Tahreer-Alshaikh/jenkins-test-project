@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Slack Webhook URL (CONFIDENTIAL)
-WEBHOOK_URL="https://hooks.slack.com/services/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"
+WEBHOOK_URL="https://hooks.slack.com/services/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"
 
 # Get Jenkins environment info
 JOB_NAME=${JOB_NAME:-"Unknown Job"}
